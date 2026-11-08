@@ -38,7 +38,7 @@ Pengujian pencarian berdasarkan nama produk untuk memastikan tabel hanya menampi
 
 
 ### 3. Fitur Lihat Detail
-Pengujian menekan tombol "Lihat Detail" untuk memastikan halaman baru menerima dan menampilkan rincian dari objek produk yang dipilih (bukan *hardcode*).
+Pengujian tombol "Lihat Detail" untuk memastikan halaman baru menampilkan informasi yang pas sesuai dengan produk yang diklik di tabel.
 <img width="959" height="502" alt="image" src="https://github.com/user-attachments/assets/e31a9adf-0344-4e17-af7c-ec82f21896b5" />
 
 
