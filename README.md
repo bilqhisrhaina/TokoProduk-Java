@@ -12,6 +12,18 @@ Project ini merupakan modifikasi dari aplikasi hasil praktikum, dibangun dengan 
 - Tombol "Lihat Detail" untuk membuka halaman detail dari objek produk yang dipilih.
 - Validasi input agar nama produk tidak kosong dan harga lebih dari nol.
 
+## 🚀 Tata Cara Menjalankan Aplikasi (Run)
+
+Aplikasi ini menggunakan Maven. Untuk membuka dan menjalankannya, kamu bisa menggunakan perintah `javafx:run`. Berikut adalah langkah-langkahnya:
+
+**Jika melalui Apache NetBeans:**
+1. Buka aplikasi Apache NetBeans, lalu buka *project* `TokoProduk` ini.
+2. Tunggu sebentar sampai NetBeans selesai membaca *dependency* (biasanya ada *loading* di pojok kanan bawah).
+3. Klik kanan pada nama *project* kamu di sebelah kiri, lalu pilih **Run Maven** -> **Goals...**
+4. Pada kolom teks yang muncul, ketikkan perintah berikut:
+   ```text
+   clean javafx:run
+
 ## 🖥️ Tampilan Aplikasi
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d6433f84-50e1-428a-9826-a40b24e5108a" />
 
